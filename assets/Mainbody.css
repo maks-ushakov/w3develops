@@ -97,3 +97,8 @@ color: white;
 ul li {
 	margin-bottom: .75em;
 }
+
+.active a {
+    background: #eee;
+    color: #555;
+}
